@@ -6,6 +6,12 @@ body {
     background-color: #f8f8f8;
     color: #333;
   }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
   
   /* Header */
   header {
@@ -92,4 +98,5 @@ body {
   li {
     color: #777;
   }
+  
   
